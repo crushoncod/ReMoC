@@ -1,2 +1,2 @@
 # ReMoC
-A device controlled by Mobile
+An Arduino device controlled by Mobile
